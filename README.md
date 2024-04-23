@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FarleyRunkel
+- 💞️ Geometric algorithm engineer
 - 👀 I’m interested in C++、Flutter、JS、OCCT
 - 🌱 I’m currently learning OCCT
-- 💞️ I’m looking to collaborate on OCCT
 - 📫 How to reach me ： farleyrunkel@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
